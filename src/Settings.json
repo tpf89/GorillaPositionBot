@@ -1,0 +1,15 @@
+{
+    "intervalMinutes": 15,
+    "guildId": "344175929964101642",
+    "channelId": "582857744940269569",
+    "sheetId": "1Ug1NNBLYM3EzhiEme-KrLe8zL_GIJaLHeW_P2gD9HsM",
+    "workSheets": [
+        {
+            "Title": "AEW Dynamite",
+            "IsWeekly": true
+        },
+        {
+            "Title": "PPVs",
+            "IsWeekly": false
+        }]
+}
